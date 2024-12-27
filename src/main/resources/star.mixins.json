@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_16",
+  "package": "com.pouffydev.star_shipments.mixin",
+  "refmap": "star_shipments.refmap.json",
+  "mixins": [
+    "BlockDestructionProgressMixin"
+  ],
+  "client": [
+    "LevelRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

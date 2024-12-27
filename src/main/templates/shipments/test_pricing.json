@@ -1,0 +1,19 @@
+{
+  "default": {
+    "price": {
+      "id": "minecraft:iron_ingot"
+    },
+    "cost_per_unit": 1
+  },
+  "prices": [
+    {
+      "item": {
+        "id": "minecraft:nether_star"
+      },
+      "price": {
+        "id": "minecraft:diamond"
+      },
+      "cost_per_unit": 126
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "star_shipments:block/landing_pad/block"
+    }
+  }
+}

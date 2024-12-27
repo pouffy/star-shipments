@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "base": {
+    "parent": "star_shipments:block/export_terminal/inactive"
+  },
+  "loader": "neoforge:separate_transforms",
+  "perspectives": {
+    "gui": {
+      "parent": "star_shipments:block/export_terminal/gui"
+    }
+  }
+}

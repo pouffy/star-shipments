@@ -1,0 +1,25 @@
+{
+  "type": "star_shipments:export_task",
+  "requested_items": [
+    {
+      "item": {
+        "id": "minecraft:iron_ingot"
+      },
+      "min_quantity": 100,
+      "max_quantity": 200
+    }
+  ],
+  "requested_fluids": [
+    {
+      "fluid": {
+        "id": "minecraft:lava"
+      },
+      "min_quantity": 10000,
+      "max_quantity": 20000
+    }
+  ],
+  "requested_energy": {
+      "min_quantity": 1000,
+      "max_quantity": 2000
+  }
+}

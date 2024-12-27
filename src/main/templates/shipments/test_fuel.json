@@ -1,0 +1,7 @@
+{
+  "type": "star_shipments:cargo_rocket_fuel",
+  "fluid": {
+    "id": "rocket_fuel"
+  },
+  "ticks_per_bucket": 72000
+}
